@@ -1,4 +1,30 @@
-.App {
+
+
+body {
+  background: linear-gradient(
+    to right,
+    rgba(106, 17, 203, 1),
+    rgba(37, 117, 252, 1)
+  );
+}
+.nav{
+  background-color: rgb(226, 238, 121);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +61,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
